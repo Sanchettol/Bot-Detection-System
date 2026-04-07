@@ -78,6 +78,10 @@ bot-detection-system/
 
 ---
 
+
+## Dataset
+https://www.kaggle.com/datasets/rezaunderfit/instagram-fake-and-real-accounts-dataset?utm_source=chatgpt.com
+
 ## ⚙️ Installation & Setup
 
 ### 🔹 1. Clone Repository
