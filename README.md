@@ -136,6 +136,14 @@ Output:
 
 ---
 
+<img width="1919" height="1016" alt="Screenshot 2026-04-12 152559" src="https://github.com/user-attachments/assets/2beab8f8-6d3b-4a2c-8f96-1b09be8335ca" />
+
+<img width="800" height="911" alt="Screenshot 2026-04-12 152634" src="https://github.com/user-attachments/assets/be07f6f4-0db6-41ab-bd1e-f3e41861a1b8" />
+
+<img width="684" height="905" alt="Screenshot 2026-04-12 152736" src="https://github.com/user-attachments/assets/fc02c3c6-997e-45d6-8081-55be482b7dbc" />
+
+
+
 ## 🎯 Applications
 
 * Social media security
